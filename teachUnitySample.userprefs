@@ -1,0 +1,22 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\_bg.cs">
+    <Files>
+      <File FileName="readme.txt" Line="1" Column="1" />
+      <File FileName="Assets\scripts\player0.cs" Line="5" Column="30" />
+      <File FileName="Assets\scripts\bullet_hm0.cs" Line="35" Column="1" />
+      <File FileName="Assets\scripts\bullet.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\gameUI.cs" Line="14" Column="1" />
+      <File FileName="Assets\scripts\_system.cs" Line="7" Column="1" />
+      <File FileName="Assets\scripts\title.cs" Line="15" Column="1" />
+      <File FileName="Assets\scripts\enemy.cs" Line="27" Column="1" />
+      <File FileName="Assets\scripts\_bg.cs" Line="9" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="D:\prog\unity\unity40\samples\teachUnitySample\Assets\scripts\startCube.cs" line="20" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
